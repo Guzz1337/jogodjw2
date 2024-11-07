@@ -4,4 +4,4 @@
 Ping-Pong 2D feito de forma simples tendo botão de start e reset, tendo a tematica do nether do minecraft
 com uma I.A simples sem muita complexidade
 
-![magmacube](https://search.brave.com/images?q=magma%20cube)
+![magmacube](https://pt.minecraft.wiki/w/Cubo_de_magma)
