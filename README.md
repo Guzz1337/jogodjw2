@@ -5,8 +5,9 @@ Ping-Pong 2D feito de forma simples tendo botão de start e reset, tendo a temat
 com uma I.A simples sem muita complexidade
 
 ## Assests <h2>
-* 
-
-
+* Bola de slime de Magma 
+* vista do nether
+* pad minimalista
+  
 ![magmacube](https://minecraft.wiki/images/thumb/Magma_Cube_JE2_BE2.png/150px-Magma_Cube_JE2_BE2.png?b4389)
 
